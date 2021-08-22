@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @walidajaj
+- 👀 I’m interested in making websites and apps
+- 🌱 I’m currently learning HTML\python.
+- 📫 How to reach me walidsx@gmail.com
